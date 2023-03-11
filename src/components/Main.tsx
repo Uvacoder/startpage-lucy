@@ -28,7 +28,7 @@ const Main = ({ inputSearchRef }: Props) => {
           ref={inputSearchRef}
         />
         <img
-          src="/assets/lucy.png"
+          src="/assets/johhnycash-pencil.PNG"
           alt="Lucy"
           className="rounded-md object-cover mt-4"
         />
